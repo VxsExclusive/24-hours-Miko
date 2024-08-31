@@ -28,7 +28,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "7284705889"))
 PORT = os.environ.get("PORT", "8383")
 
 #Database 
-DB_URI = "mongodb+srv://susantamusic:susantabhan@cluster0.5pwi1py.mongodb.net/?retryWrites=true&w=majority"
+DB_URI = "mongodb+srv://vrashank:pochlike@vrashank.rt0gu.mongodb.net/"
 DB_NAME = os.environ.get("DATABASE_NAME", "tokenbot")
 
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "publicearn.com")
